@@ -40,7 +40,7 @@ More tools are to be added very soon. </b>
 <li>Open your terminal and clone this repository using the following command</li><br>
 
 ```
-git clone https://github.com/gsvprharsha/Hunter-Framework.git
+git clone https://github.com/Transmetal/Hunter-Framework
 ```
 
 <li>Change into the downloaded directory. Now make sure you are using the <b>root</b> user</li><br>
@@ -63,17 +63,3 @@ chmod +x setup.sh
 ```
 sudo hunter
 ```
-
-<li>You should be greeted with the following screen</li><br>
-<p align="center">
-  <img alt="Welcome Screen" src="https://github.com/gsvprharsha/Hunter-Framework/blob/main/imgs/Hunter%20Welcome%20Screen.png">
-</p>
-
-<li>Now you may choose your option and hit enter, which would ask you input regaring the target, gateway,...etc</li>
-
-## What to expect in future updates
-<li>A anonymizing script</li>
-<li>An ARP Spoofer</li>
-<li>An Email Bomber</li>
-<li>Rootkit Generator</li>
-And many more tools to come. If you are into building tools, then do contribute to the project.
