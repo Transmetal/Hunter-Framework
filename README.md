@@ -18,16 +18,6 @@ More tools are to be added very soon. </b>
 <li>You may add your own set of wordlists to the existing ones using wordlist generator.</li>
 <li>A network mapper that shows MAC and IP addressess.</li>
 
-
-## Tested On
-<p align="center">
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</p>
-
-
-
 ## Contributing
 <b>Thank you so much for considering to contribute to the Project. Place a pull request and if feasible it will be merged into the main branch of this repository.</b>
 
